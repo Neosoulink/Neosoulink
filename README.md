@@ -1,7 +1,7 @@
 ## Hi 👋,
-### I'm a simple fullStack développer.
+### I'm a fullStack développer.
 
-༼ つ ◕_◕ ༽つ JS, Node, Vuejs, React, ReactNative, PHP, Laravel, SQL, MongoDB, |Firebase. 
+༼ つ ◕_◕ ༽つ JS, Node, Vuejs, React, ReactNative, PHP, Laravel, SQL, MongoDB, Firebase. 
 
 <a href='https://nsl-me.web.app'>check my website 😁.</a>
 <!--
