@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi 👋,
+### I'm a simple fullStack développer.
 
+༼ つ ◕_◕ ༽つ JS|Node|Vuejs|React|ReactNative|PHP|Laravel|SQL|MongoDB||Firebase. 
+
+<a href='https://nsl-me.web.app'>check my website 😁.</a>
 <!--
 **Neosoulink/Neosoulink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
