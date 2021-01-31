@@ -8,7 +8,7 @@
 [![Neosoulink GitHub stats](https://github-readme-stats.vercel.app/api?username=Neosoulink&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E&hide_title=true)](https://github.com/Neosoulink)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neosoulink&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/Neosoulink)
 
-<a href='https://nsl-me.web.app' target="_blank">check my website 😁.</a>
+<a href='https://nsl-me.web.app' target="_blank">check my website 😄.</a>
 <!--
 **Neosoulink/Neosoulink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
