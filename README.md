@@ -5,7 +5,7 @@
 
 <br>
 
-[![Neosoulink GitHub stats](https://github-readme-stats.vercel.app/api?username=Neosoulink&show_icons=true&theme=gotham&bg_color=1E1E1E)](https://github.com/Neosoulink)
+[![Neosoulink GitHub stats](https://github-readme-stats.vercel.app/api?username=Neosoulink&show_icons=true&theme=gotham&bg_color=1E1E1E&hide_title=true)](https://github.com/Neosoulink)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neosoulink&layout=compact&show_icons=true&theme=gotham&bg_color=1E1E1E)](https://github.com/Neosoulink)
 
 <a href='https://nsl-me.web.app' target="_blank">check my website 😁.</a>
