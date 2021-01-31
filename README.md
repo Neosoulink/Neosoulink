@@ -4,6 +4,8 @@
 ༼ つ ◕_◕ ༽つ JS, Node, Vuejs, React, ReactNative, PHP, Laravel, SQL, MongoDB, Firebase. 
 
 <a href='https://nsl-me.web.app' target="_blank">check my website 😁.</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Neosoulink/Neosoulink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
