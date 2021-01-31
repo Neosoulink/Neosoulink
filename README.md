@@ -1,7 +1,7 @@
 ## Hi 👋,
 ### I'm Nath and i <3 to develope.
 
-༼ つ ◕_◕ ༽つ JS, Node, Vuejs, React, ReactNative, PHP, Laravel, SQL, MongoDB, Firebase.
+༼ つ ◕_◕ ༽つ JS, Node, Vuejs, React, ReactNative, PHP, Laravel, MySQL, MongoDB, Firebase.
 
 <br>
 
