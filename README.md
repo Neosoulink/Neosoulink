@@ -3,23 +3,8 @@
 
 ༼ つ ◕_◕ ༽つ JS, Node, Vuejs, React, ReactNative, PHP, Laravel, MySQL, MongoDB, Firebase.
 
-<br>
+[![Neosoulink GitHub stats](https://github-readme-stats.vercel.app/api?username=Neosoulink&show_icons=true&count_private=true&theme=gotham&bg_color=0D1117&hide_title=true&hide_border=true)](https://github.com/Neosoulink)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neosoulink&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=0D1117&hide_border=true)](https://github.com/Neosoulink)
 
-[![Neosoulink GitHub stats](https://github-readme-stats.vercel.app/api?username=Neosoulink&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E&hide_title=true)](https://github.com/Neosoulink)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neosoulink&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/Neosoulink)
+[Check my website 😄.](https://nsl-me.web.app)
 
-<a href='https://nsl-me.web.app' target="_blank">Check my website 😄.</a>
-<!--
-**Neosoulink/Neosoulink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
