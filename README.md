@@ -3,7 +3,7 @@
 
 ༼ つ ◕_◕ ༽つ JS, TypeScript, Node, Vuejs, React, ReactNative, PHP, Laravel, GraphQL, MySQL, MongoDB, Firebase.
 
-> Interested on ThreeJS and animations (¬‿¬)
+> Interested on Web3, ThreeJS and animations (¬‿¬)
 
 (☞ﾟヮﾟ)☞ Looking for a good opportunity
 
