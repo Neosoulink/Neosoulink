@@ -1,7 +1,7 @@
 ## Hi 👋,
 ### I'm Nath and i <3 to develope.
 
-༼ つ ◕_◕ ༽つ JS, TypeScript, Node, Vuejs, React, Next, Nuxt, ReactNative, PHP, Laravel, GraphQL, MySQL, Prisma, MongoDB, Firebase.
+༼ つ ◕_◕ ༽つ Javascript | Typescript | NodeJs | ExpressJs | Vuejs | ReactJs | ReactNative | NextJs | NuxtJS | ThreeJs | PHP | Laravel | Prisma | GraphQL | Firebase | SQL | MongoDB | Figma
 
 > Interested on Web3, ThreeJS and animations (¬‿¬)
 
