@@ -3,7 +3,7 @@
 
 ༼ つ ◕_◕ ༽つ Javascript | Typescript | NodeJs | ExpressJs | Vuejs | ReactJs | ReactNative | NextJs | NuxtJS | ThreeJs | PHP | Laravel | Prisma | GraphQL | Firebase | SQL | MongoDB | Figma
 
-> Interested on Web3, ThreeJS and animations (¬‿¬)
+> Deeply intrerested on Web3, ThreeJS and animations (¬‿¬)
 
 (☞ﾟヮﾟ)☞ Looking for a good opportunity
 
