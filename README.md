@@ -1,5 +1,5 @@
 ## Hi 👋,
-### I'm Nath and i <3 to develope.
+### I'm Nath and I <3 to develop.
 
 ༼ つ ◕_◕ ༽つ Javascript | Typescript | NodeJs | ExpressJs | Vuejs | ReactJs | ReactNative | NextJs | NuxtJS | ThreeJs | PHP | Laravel | Prisma | GraphQL | Firebase | SQL | MongoDB | Figma
 
