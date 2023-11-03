@@ -1,10 +1,13 @@
-<h1 style="color:white">Hi 👋, I'm Nath</h1>
+<h2 style="color:#999999">(⌐■‿■)ﾉ Hi , I'm Nath</h2>
 
-༼ つ ◕_◕ ༽つ Javascript | Typescript | Vuejs | ReactJs | ReactNative | NextJs | NuxtJS | NestJS | ThreeJs | NodeJs | ExpressJs | PHP | Laravel | Prisma | GraphQL | Firebase | SQL | MongoDB | Figma | Blender
+<p style="color:#999999">
+Need a helping hand? here's my stacks:</br>
+Javascript | Typescript | Vuejs | ReactJs | ReactNative | NextJs | NuxtJS | NestJS | ThreeJs | NodeJs | ExpressJs | PHP | Laravel | Prisma | GraphQL | Firebase | SQL | MongoDB | Figma | Blender
+</p>
 
-<h4 style="color:white">( ﾉ ﾟｰﾟ)ﾉ Looking for a good opportunity</h4>
+<a href="https://www.linkedin.com/in/nathan-mande-87b0b2196/" target="blank" style="color:#3ea88d;">I'm available on linkedin. Let's connect <img src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" height="12" alt="Linkedin logo" />↗</a> <span style="color:#999999">☜( ͡~ ᴗ ͡° ☜)</span>
 
-[![Neosoulink GitHub stats](https://github-readme-stats.vercel.app/api?username=Neosoulink&show_icons=true&count_private=true&layout=compact&show_owner=true&theme=gotham&bg_color=0D111700&text_color=C9D1D9&hide_title=true&hide_border=true)](https://github.com/Neosoulink)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neosoulink&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide=html,css,less,scss,hack,php&show_icons=true&count_private=true&theme=gotham&bg_color=0D111700&text_color=C9D1D9&hide_border=true)](https://github.com/Neosoulink)
+[![Neosoulink's stats](https://github-readme-stats.vercel.app/api?username=Neosoulink&show_icons=true&layout=compact&show_owner=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=3ea88d&hide_title=true&hide_border=true)](https://github.com/Neosoulink)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neosoulink&include_all_commits=true&layout=compact&langs_count=6&hide=html,css,less,scss,hack,php&show_icons=true&count_private=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=3ea88d&hide_border=true)](https://github.com/Neosoulink)
 
-[Check my website](https://nsl-me.web.app) ☜(ﾟヮﾟ☜)
+<a href="https://nsl-me.web.app" target="blank" style="color:#3ea88d;">Take a look at my website</a> <span style="color:#999999">☜(ﾟヮﾟ ☜)</span>
