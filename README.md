@@ -1,6 +1,6 @@
 ## (⌐■‿■)ﾉ Hi , I'm Nath</span>
 
-Need a helping hand?
+Need a helping hand?</br>
 Javascript | Typescript | Vuejs | ReactJs | ReactNative | NextJs | NuxtJS | NestJS | ThreeJs | NodeJs | ExpressJs | PHP | Laravel | Prisma | GraphQL | Firebase | SQL | MongoDB | Figma | Blender
 
 I'm available on linkedin. [Let's connect <img src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" height="12" alt="Linkedin logo" />](https://www.linkedin.com/in/nathan-mande-87b0b2196) ☜
