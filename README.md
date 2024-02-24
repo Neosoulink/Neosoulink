@@ -2,7 +2,7 @@
  <samp>(⌐■‿■)ﾉ  Hi, Nath here</samp>
  </br>
   <samp>
-    I like to build things in the right way, and I'm a little bit curious 👀.<br/>
+    I like to build things in the right way, and I'm a little curious 👀.<br/>
     <a href="https://nathan-mande.netlify.app/">Website</a> ᐧ
     <a href="https://www.linkedin.com/in/nathan-mande-87b0b2196">LinkedIn</a> ᐧ
     <a href="https://twitter.com/nsl_nathan">X</a>
