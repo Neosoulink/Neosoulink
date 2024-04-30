@@ -10,11 +10,11 @@
 </p>
 
 <ul align="center">
-  <samp align="center">💻 JS-Typescript | NodeJs | PHP.</samp></br>
-  <samp align="center">🛠 Vuejs | ReactJs | ReactNative | NextJs | NuxtJS | ThreeJs | NestJS | ExpressJs | Laravel.</samp></br>
-  <samp align="center">📦 SQL | Redis | MongoDB | AWS | Firebase | Docker | GraphQL | Prisma.</samp></br>
+  <samp align="center">💻 JS-Typescript | NodeJs</samp></br>
+  <samp align="center">🛠 Vuejs | ReactJs | ReactNative | NextJs | NuxtJS | ThreeJs | NestJS | ExpressJs</samp></br>
+  <samp align="center">📦 SQL | Redis | MongoDB | AWS | Firebase | Docker | GraphQL | Prisma</samp></br>
   <samp align="center">💅 Figma | Blender.</samp></br>
-  <samp align="center" >📊 Agile | Gitflow | Trello | ClickUp | Jira.</samp></br>
+  <samp align="center" >📊 Agile | Gitflow | Trello | ClickUp | Jira</samp></br>
 </ul>
 
 <p align="center">
