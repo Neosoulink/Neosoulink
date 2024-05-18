@@ -1,8 +1,9 @@
 <p align="center">
- <samp>(⌐■‿■)ﾉ  Hi, Nath here</samp>
+ <samp>(⌐■‿■)ﾉ  Hi, Nathan here</samp>
  </br>
   <samp>
-    I like to build things in the right way, and I'm a little curious 👀.<br/>
+    <code>I like to build things in the right way</code><br/>
+    <code>Performance optimization, clean code, and architecture</code><br/>
     <a href="https://nathan-mande.netlify.app/">Website</a> ᐧ
     <a href="https://www.linkedin.com/in/nathan-mande-87b0b2196">LinkedIn</a> ᐧ
     <a href="https://twitter.com/nsl_nathan">X</a>
@@ -10,11 +11,11 @@
 </p>
 
 <ul align="center">
-  <samp align="center">💻 JS-Typescript | NodeJs</samp></br>
-  <samp align="center">🛠 Vuejs | ReactJs | ReactNative | NextJs | NuxtJ\S | ThreeJs | NestJS | ExpressJs</samp></br>
-  <samp align="center">📦 SQL | Redis | MongoDB | AWS | Firebase | Docker | GraphQL | Prisma</samp></br>
-  <samp align="center">💅 Figma | Blender.</samp></br>
-  <samp align="center" >📊 Agile | Gitflow</samp></br>
+  <samp>📌 Agile | Gitflow</samp></br>
+  <samp>🔑 JS-Typescript | NodeJs</samp></br>
+  <samp>🛠 Vuejs | React | ReactNative | NestJS | Next.js | Nuxt | Three.js | Gsap</samp></br>
+  <samp>💾 Sql/NoSql | Redis | AWS | Firebase | Docker | GraphQL | Prisma</samp></br>
+  <samp>🧰 Figma | Blender | Git-Github</samp></br>
 </ul>
 
 <p align="center">
