@@ -15,7 +15,7 @@
 <p align="center">
   <samp>📌 Agile | Gitflow</samp></br>
   <samp>🔑 JS-Typescript | NodeJs</samp></br>
-  <samp>🛠 Vuejs | React | ReactNative | NestJS | Next.js | Nuxt | Three.js | Gsap</samp></br>
+  <samp>🛠 Vuejs | React | ReactNative | NestJS | Next.js | Nuxt | Three.js | RxJS | Gsap</samp></br>
   <samp>💾 Sql/NoSql | Redis | AWS | Firebase | Docker | GraphQL | Prisma</samp></br>
   <samp>🧰 Figma | Blender | Git-Github</samp>
 </p>
