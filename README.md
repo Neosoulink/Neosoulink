@@ -1,5 +1,5 @@
 <p align="center">
- <samp>(⌐■‿■)ﾉ  Hi, Nathan here</samp></br>
+ <samp>Hey! Nathan here</samp></br>
   <samp>
     <code>I like to build things in the right way</code><br/>
     <code>Performance optimization, clean code, and architecture</code><br/>
