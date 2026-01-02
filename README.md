@@ -12,10 +12,3 @@
     </p>
   </samp>
 </p>
-<p align="center">
-  <samp>🔑 JS-Typescript | NodeJs</samp></br>
-  <samp>🛠 Vuejs | React | ReactNative | NestJS | Next.js | Nuxt | Three.js | RxJS | Gsap</samp></br>
-  <samp>💾 Sql/NoSql | Redis | AWS | Firebase | Docker | GraphQL | Prisma</samp></br>
-  <samp>🧰 Figma | Blender | Git-Github</samp></br>
-  <samp>📌 Agile | Gitflow</samp>
-</p>
